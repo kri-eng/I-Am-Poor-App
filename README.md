@@ -1,3 +1,5 @@
+# I Am Poor
+
 This is a really simple single view application which is inspired from the really famous I am Rich application. It contains a Label - "I am Poor" and an UIImage - coal.
 
 Here is a screenshot of the application:
